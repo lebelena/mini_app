@@ -7,4 +7,7 @@ items:
     href: how_to_start.md
   - name: Работа с экипажем
     href: work_with_team.md
-
+  - name: Результат миссий
+    href: mission.md
+  - name: Работа с отчётами
+    href: report.md
