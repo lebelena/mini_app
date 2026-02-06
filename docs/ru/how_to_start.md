@@ -2,7 +2,7 @@
 
 ## Шаг 1. Регистрация
 
-Запустите телеграм-бот [@CT_DC_bot](https://t.me/CT_DC_bot) по команде «Launch_CT_DT» или /start и введите выданные ранее логин (email) и пароль. 
+Запустите телеграм-бот [@CT_DC_bot](https://t.me/CT_DC_bot) по команде «Launch_CT_DC» или /start и введите выданные ранее логин (email) и пароль. 
 
 ![_screen_start_03](_images/_screen_login.png){.center width=1200}
 
